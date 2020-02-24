@@ -1,0 +1,17 @@
+[
+  {
+    "URL": "https://www.google.com/",
+    "show_in_countries": [
+      "RU",
+      "UA"
+    ],
+    "enabled": "false"
+  },
+  {
+    "URL": "http://4pda.ru/",
+    "show_in_countries": [
+      "KZ"
+    ],
+    "enabled": "false"
+  }
+]
